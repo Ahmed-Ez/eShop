@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-shop",
+  "version": "1.0.0",
+  "description": "MERN eStore",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Ahmed Ezzat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
