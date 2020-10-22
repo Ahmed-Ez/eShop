@@ -13,7 +13,7 @@ const ProductScreen = ({ match }) => {
     };
 
     getProduct();
-  }, []);
+  }, [match]);
 
   return (
     <>
